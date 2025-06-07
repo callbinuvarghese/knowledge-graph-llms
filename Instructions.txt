@@ -1,0 +1,11 @@
+forked from https://github.com/thu-vu92/knowledge-graph-llms/ 
+
+Notebook 
+
+ knowledge_graph.ipynb
+
+UI
+===
+ streamlit run app.py
+
+ sample file patient_report.txt
